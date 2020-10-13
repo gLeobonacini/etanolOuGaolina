@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gasolina ou Etanol</string>
+    <string name="txtInformar">Informe o texto o preço do etanol e da gasolina para comparar</string>
+    <string name="txtGasolina">Digite o valor do litro de gasolina</string>
+    <string name="txtEtanol">Digite o valor do litro de etanol</string>
+    <string name="txtBt">Comparar</string>
+</resources>
